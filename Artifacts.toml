@@ -1,0 +1,288 @@
+[[LAStools]]
+arch = "aarch64"
+git-tree-sha1 = "83e0e3d8bd2b73c4d1f5721631f664bff57a2f3d"
+os = "macos"
+
+    [[LAStools.download]]
+    sha256 = "2c7062150b7847ce84b0efabec494b5ba9d0e55728d0abf147fe7225e2621cf1"
+    url = "https://github.com/JuliaBinaryWrappers/LAStools_jll.jl/releases/download/LAStools-v2.0.3+0/LAStools.v2.0.3.aarch64-apple-darwin.tar.gz"
+[[LAStools]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0aeabfa11208f19b9f8e7c8b956b2fa1d3984040"
+libc = "glibc"
+os = "linux"
+
+    [[LAStools.download]]
+    sha256 = "31f7d2d61f8eac11945c9b5b580e3feeedf1d930a7b6f73361f91119ae761589"
+    url = "https://github.com/JuliaBinaryWrappers/LAStools_jll.jl/releases/download/LAStools-v2.0.3+0/LAStools.v2.0.3.aarch64-linux-gnu-cxx03.tar.gz"
+[[LAStools]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c0c6effb721a2c2fc9e6b640d887525eef0ded04"
+libc = "glibc"
+os = "linux"
+
+    [[LAStools.download]]
+    sha256 = "4a365584b554edeae4fe7c45bcdb78b93a7989856c250a79fd43c36520418245"
+    url = "https://github.com/JuliaBinaryWrappers/LAStools_jll.jl/releases/download/LAStools-v2.0.3+0/LAStools.v2.0.3.aarch64-linux-gnu-cxx11.tar.gz"
+[[LAStools]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "089aa9f0da7638b353db2c1ac92e46b60b3eff0f"
+libc = "musl"
+os = "linux"
+
+    [[LAStools.download]]
+    sha256 = "bac80b89c81bfc2390b6c1ed1ad7daa44f90b2c349c30192ed0f2a4ce2176f0f"
+    url = "https://github.com/JuliaBinaryWrappers/LAStools_jll.jl/releases/download/LAStools-v2.0.3+0/LAStools.v2.0.3.aarch64-linux-musl-cxx03.tar.gz"
+[[LAStools]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0858f8eb93d380f14366bf20b9e0cf0c04d2e3b4"
+libc = "musl"
+os = "linux"
+
+    [[LAStools.download]]
+    sha256 = "3b84a5cfd025166142b79cb357bdbad9ac9a0dc2a247666c4850a3ed0945c270"
+    url = "https://github.com/JuliaBinaryWrappers/LAStools_jll.jl/releases/download/LAStools-v2.0.3+0/LAStools.v2.0.3.aarch64-linux-musl-cxx11.tar.gz"
+[[LAStools]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "03f797d139abffa7b2afdf714059c5d7cbd1b46c"
+libc = "glibc"
+os = "linux"
+
+    [[LAStools.download]]
+    sha256 = "31fc3dfc723016361a2c8c2bec8d4c05ae97b84fe57b2127a0db848360788eb6"
+    url = "https://github.com/JuliaBinaryWrappers/LAStools_jll.jl/releases/download/LAStools-v2.0.3+0/LAStools.v2.0.3.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[LAStools]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "40c43f8ffda2412a91f6ff7eacda90e7e583c460"
+libc = "glibc"
+os = "linux"
+
+    [[LAStools.download]]
+    sha256 = "94c200f3f5a296ed3449b1c80481b7eba3e96e8332ab6c60d062055d492b9c75"
+    url = "https://github.com/JuliaBinaryWrappers/LAStools_jll.jl/releases/download/LAStools-v2.0.3+0/LAStools.v2.0.3.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[LAStools]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1351c529e858a7d9da8f26ae63a2ae994080b0d6"
+libc = "musl"
+os = "linux"
+
+    [[LAStools.download]]
+    sha256 = "54068362161bc773304a2f1578a508877d4d7491f2b9b594df2e0c6a77031f4e"
+    url = "https://github.com/JuliaBinaryWrappers/LAStools_jll.jl/releases/download/LAStools-v2.0.3+0/LAStools.v2.0.3.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[LAStools]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e4c51b047410af0abd6c80e12d9a6f8b8f09229d"
+libc = "musl"
+os = "linux"
+
+    [[LAStools.download]]
+    sha256 = "919ad5eb6311a23726554a5d9a06e0372eb39c81c692ab76e8d01f0584c6c9b1"
+    url = "https://github.com/JuliaBinaryWrappers/LAStools_jll.jl/releases/download/LAStools-v2.0.3+0/LAStools.v2.0.3.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[LAStools]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3b72131eb82d1e2d2159f15b4ea9c3284e9f961a"
+libc = "glibc"
+os = "linux"
+
+    [[LAStools.download]]
+    sha256 = "8c1bd7041b5952203437fcbfc5cfdc59c202ddfb20846d37dc49d19483626fce"
+    url = "https://github.com/JuliaBinaryWrappers/LAStools_jll.jl/releases/download/LAStools-v2.0.3+0/LAStools.v2.0.3.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[LAStools]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c5d5a8d79a9772c5c2abd441407f336bf953759a"
+libc = "glibc"
+os = "linux"
+
+    [[LAStools.download]]
+    sha256 = "dd33798e21bf6851e04f36a3237d37aaa4734b94f41632c0418d1c3cb220828f"
+    url = "https://github.com/JuliaBinaryWrappers/LAStools_jll.jl/releases/download/LAStools-v2.0.3+0/LAStools.v2.0.3.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[LAStools]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a149c34113fad4dafbc1b91872f9da75f191d874"
+libc = "musl"
+os = "linux"
+
+    [[LAStools.download]]
+    sha256 = "c88c64e83d73cf6f27baa09debe454c8623d74de49193fa60c19e55840309391"
+    url = "https://github.com/JuliaBinaryWrappers/LAStools_jll.jl/releases/download/LAStools-v2.0.3+0/LAStools.v2.0.3.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[LAStools]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ea3856c5d39988acac2485ebe57c46e1d2b2dd85"
+libc = "musl"
+os = "linux"
+
+    [[LAStools.download]]
+    sha256 = "84362679f139f6ae527f509d3595cc7ad7438d28952ff002aba245321ad44f10"
+    url = "https://github.com/JuliaBinaryWrappers/LAStools_jll.jl/releases/download/LAStools-v2.0.3+0/LAStools.v2.0.3.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[LAStools]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d044cd05cc3206bffb6b6b8dc6c849f2dbba99ac"
+libc = "glibc"
+os = "linux"
+
+    [[LAStools.download]]
+    sha256 = "cdf186acb681815c00f40dbfa2a4a9e795ed0bf79be42d30c2e4396eb3d1fc90"
+    url = "https://github.com/JuliaBinaryWrappers/LAStools_jll.jl/releases/download/LAStools-v2.0.3+0/LAStools.v2.0.3.i686-linux-gnu-cxx03.tar.gz"
+[[LAStools]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0c7b48d5dc9024b716a7ae6f6744a32922512be1"
+libc = "glibc"
+os = "linux"
+
+    [[LAStools.download]]
+    sha256 = "158ba31c8335ba0ba8e35532b6559ab17f87d7ccd4fd90cd7c16687f80b6245c"
+    url = "https://github.com/JuliaBinaryWrappers/LAStools_jll.jl/releases/download/LAStools-v2.0.3+0/LAStools.v2.0.3.i686-linux-gnu-cxx11.tar.gz"
+[[LAStools]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9d56b742dbe91c420aa74903f0e08e9df884b849"
+libc = "musl"
+os = "linux"
+
+    [[LAStools.download]]
+    sha256 = "5c7783a5b1894e6e970fbbd95b23125459df02d454baaa79e6b77ae22e5c377b"
+    url = "https://github.com/JuliaBinaryWrappers/LAStools_jll.jl/releases/download/LAStools-v2.0.3+0/LAStools.v2.0.3.i686-linux-musl-cxx03.tar.gz"
+[[LAStools]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "afcbce9e47b0206cc65b88e66496f86aadfcdb4e"
+libc = "musl"
+os = "linux"
+
+    [[LAStools.download]]
+    sha256 = "1c35c1d1efd29307a4a7aa6a24507d2f924e0c100cc40bc502cd4ef9f1a16091"
+    url = "https://github.com/JuliaBinaryWrappers/LAStools_jll.jl/releases/download/LAStools-v2.0.3+0/LAStools.v2.0.3.i686-linux-musl-cxx11.tar.gz"
+[[LAStools]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2c6b4f356f50fb444fa4db7406d155b774300e6d"
+os = "windows"
+
+    [[LAStools.download]]
+    sha256 = "9d438157a74ea289fb9cf99043d75ef3592e93391aa79a3fd95c0d1166f35620"
+    url = "https://github.com/JuliaBinaryWrappers/LAStools_jll.jl/releases/download/LAStools-v2.0.3+0/LAStools.v2.0.3.i686-w64-mingw32-cxx03.tar.gz"
+[[LAStools]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "81252de03e8364b85b27e1a659f28e3a6da76389"
+os = "windows"
+
+    [[LAStools.download]]
+    sha256 = "15e1a8b6235440dcf2afdb3a369e0cd9e517396eecd9c9e3907bd82bb103cfc6"
+    url = "https://github.com/JuliaBinaryWrappers/LAStools_jll.jl/releases/download/LAStools-v2.0.3+0/LAStools.v2.0.3.i686-w64-mingw32-cxx11.tar.gz"
+[[LAStools]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "817cf962487dcddee85fe5de4c346d3e2e6d67aa"
+libc = "glibc"
+os = "linux"
+
+    [[LAStools.download]]
+    sha256 = "d757c5059b671dca717b931f0318dbf7832b261ee3d9bc3115a9d5c9b224229b"
+    url = "https://github.com/JuliaBinaryWrappers/LAStools_jll.jl/releases/download/LAStools-v2.0.3+0/LAStools.v2.0.3.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[LAStools]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "949f4c99659f9aa140b23c85d8ba5379d81f37ee"
+libc = "glibc"
+os = "linux"
+
+    [[LAStools.download]]
+    sha256 = "1196c12d219e72a2a04944bc649acf69a35733e14f18aa08e0fc3b0a0908208e"
+    url = "https://github.com/JuliaBinaryWrappers/LAStools_jll.jl/releases/download/LAStools-v2.0.3+0/LAStools.v2.0.3.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[LAStools]]
+arch = "x86_64"
+git-tree-sha1 = "e4abd97b326431c35377d324226f48302e0052fb"
+os = "macos"
+
+    [[LAStools.download]]
+    sha256 = "8e46e67f58af910c23d894d3dff45f75c9e7fc9da04a11c0f7f49c0b6970b4a2"
+    url = "https://github.com/JuliaBinaryWrappers/LAStools_jll.jl/releases/download/LAStools-v2.0.3+0/LAStools.v2.0.3.x86_64-apple-darwin.tar.gz"
+[[LAStools]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "92fb80b530fd18b6f169ed863d4c09b1673d1529"
+libc = "glibc"
+os = "linux"
+
+    [[LAStools.download]]
+    sha256 = "08e50d15c731059e1686ff53212ca82115cdab50bfc473d9186c0639af63ae19"
+    url = "https://github.com/JuliaBinaryWrappers/LAStools_jll.jl/releases/download/LAStools-v2.0.3+0/LAStools.v2.0.3.x86_64-linux-gnu-cxx03.tar.gz"
+[[LAStools]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5148e99e7f3bca65d047917b1573a3a9a1291fe2"
+libc = "glibc"
+os = "linux"
+
+    [[LAStools.download]]
+    sha256 = "0acec01a49d854ad2ec16c8eaaeadd360e9d46569202bb4344fce0dcd84e289d"
+    url = "https://github.com/JuliaBinaryWrappers/LAStools_jll.jl/releases/download/LAStools-v2.0.3+0/LAStools.v2.0.3.x86_64-linux-gnu-cxx11.tar.gz"
+[[LAStools]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "00107713acdc986e5edb60aeab43405e089fde8c"
+libc = "musl"
+os = "linux"
+
+    [[LAStools.download]]
+    sha256 = "c8d0a15c4b4e33de4adf086416f677ca2857db2d11b1e0023732692076ea2093"
+    url = "https://github.com/JuliaBinaryWrappers/LAStools_jll.jl/releases/download/LAStools-v2.0.3+0/LAStools.v2.0.3.x86_64-linux-musl-cxx03.tar.gz"
+[[LAStools]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ec61c531e8fae48ee8fd21fedf11360a3a1ae7b5"
+libc = "musl"
+os = "linux"
+
+    [[LAStools.download]]
+    sha256 = "07a57c1eff2383753523624579172b49122757e3be0a950dafebe544a07d887b"
+    url = "https://github.com/JuliaBinaryWrappers/LAStools_jll.jl/releases/download/LAStools-v2.0.3+0/LAStools.v2.0.3.x86_64-linux-musl-cxx11.tar.gz"
+[[LAStools]]
+arch = "x86_64"
+git-tree-sha1 = "9250cccc44d49dc87f5371b27035456bf7e32c1a"
+os = "freebsd"
+
+    [[LAStools.download]]
+    sha256 = "c4c6ff6dd95f1a3ecd887cdc3826f16e5e2e5d157050eb185e04cd30c4928abd"
+    url = "https://github.com/JuliaBinaryWrappers/LAStools_jll.jl/releases/download/LAStools-v2.0.3+0/LAStools.v2.0.3.x86_64-unknown-freebsd.tar.gz"
+[[LAStools]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4245fb1eb017af2d4fe96f3d4ee84bca747e46b6"
+os = "windows"
+
+    [[LAStools.download]]
+    sha256 = "b75d3281cc840451858a7b9e7660610da2082630d59cb90ba62fff3143f949fc"
+    url = "https://github.com/JuliaBinaryWrappers/LAStools_jll.jl/releases/download/LAStools-v2.0.3+0/LAStools.v2.0.3.x86_64-w64-mingw32-cxx03.tar.gz"
+[[LAStools]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "30203a35a1d56b3eac22f447a22b9233573ed67d"
+os = "windows"
+
+    [[LAStools.download]]
+    sha256 = "9fda13ad89c60efc989219c301705b42da661694764576d83e200191d8279b61"
+    url = "https://github.com/JuliaBinaryWrappers/LAStools_jll.jl/releases/download/LAStools-v2.0.3+0/LAStools.v2.0.3.x86_64-w64-mingw32-cxx11.tar.gz"
